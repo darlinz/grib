@@ -13,10 +13,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- *
- * @author kristiinaparri
- */
+
 @Entity
 @Table(name="sofas")
 public class Sofa implements Serializable {
